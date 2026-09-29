@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "monstermash-af4742b2"
+  },
+  "targets": {
+    "monstermash-af4742b2": {
+      "hosting": {
+        "studio": [
+          "simpledotstudio"
+        ]
+      }
+    }
+  }
+}

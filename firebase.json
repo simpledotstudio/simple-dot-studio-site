@@ -1,0 +1,14 @@
+{
+  "hosting": [
+    {
+      "target": "studio",
+      "public": ".",
+      "ignore": [
+        "firebase.json",
+        ".firebaserc",
+        "**/.*",
+        "**/node_modules/**"
+      ]
+    }
+  ]
+}
